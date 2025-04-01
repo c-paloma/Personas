@@ -6,6 +6,8 @@ package personas;
  * @autor IES Virgen de la Paloma
  * @version 2
  */
+
+// Test commit
 public class PruebaPersona {
 
     /**
