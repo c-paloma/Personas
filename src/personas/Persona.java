@@ -6,6 +6,7 @@ import java.util.regex.Pattern;
  * @autor IES Virgen de la Paloma
  * @version 2
  */
+
 public class Persona {
 
     private String dni;
@@ -14,7 +15,7 @@ public class Persona {
     private int edad;
 
     static final int MAYORIA_EDAD = 18;
-    static final int JUBILACION_EDAD = 65;
+    static final int JUBILACION_EDAD = 67;
 
     /**
      * Constructor
